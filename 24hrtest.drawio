@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T06:16:54.987Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="O12PCXUHCeGVS68T8Yyl" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T01:00:27.092Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="hJAHO0XdX3q6OfjU9yS9" version="24.4.4" type="github">
   <diagram name="Page-1" id="5bSXYN2U-99hKogTW9Im">
-    <mxGraphModel dx="1434" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,7 +253,7 @@
         <mxCell id="CmdeKac-b-EZAwpPMAO4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y1CMa8lW1xbxOv6bXZh0-101" target="Y1CMa8lW1xbxOv6bXZh0-157" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y1CMa8lW1xbxOv6bXZh0-101" value="act_low_sides" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Y1CMa8lW1xbxOv6bXZh0-101" value="act_lower" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="354.5" y="1246.25" width="91.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y1CMa8lW1xbxOv6bXZh0-102" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -481,13 +481,13 @@
         <mxCell id="Y1CMa8lW1xbxOv6bXZh0-169" value="checkout&lt;div&gt;sync_id 2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="715" y="1150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jpq0Ce90LJxbyzYAJTPC-1" value="AMR goal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="jpq0Ce90LJxbyzYAJTPC-1" value="AMR goal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="510" y="1271.75" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jpq0Ce90LJxbyzYAJTPC-2" value="AGV scene" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="jpq0Ce90LJxbyzYAJTPC-2" value="AGV scene" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="510" y="1310" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jpq0Ce90LJxbyzYAJTPC-3" value="scenario" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="jpq0Ce90LJxbyzYAJTPC-3" value="scenario" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="510" y="1350" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
