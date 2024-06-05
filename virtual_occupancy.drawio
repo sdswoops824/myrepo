@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T03:30:04.318Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="REq-RB6xww_O9QJNQejt" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T03:57:32.509Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="B-XiHcPfknlKQDrBWpDv" version="24.4.13" type="github">
   <diagram name="Page-1" id="ZQYoR2bXF4td_HxUEjvD">
-    <mxGraphModel dx="1364" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="779" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,23 +44,113 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MdE7EvTuS_QVhMOrEJu6-13" value="&lt;span style=&quot;background-color: initial;&quot;&gt;AMR1 checks south wait area 1&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;free&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AMR1 enters south wait area 1 and parks&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AMR1 checks south wait area 2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;free&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AMR1 enters south wait area 2 and parks&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AMR1 checks entire pink area&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;free&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR1 enters 1 AMR only area and starts task&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 checks north wait area 1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;free&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 enters north wait area 1 and parks&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 checks north wait area 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;free&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 enters north wait area 2 and parks&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 checks entire green area&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;occupied by AMR1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 waits in north wait area 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR1 completes task and exits&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 enters 1 AMR only area and starts task&amp;nbsp;&lt;/div&gt;&lt;div&gt;(at this time, if AMR3 is waiting in south wait area 2, it will not enter 1 AMR only area)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="25" width="470" height="680" as="geometry" />
+        <mxCell id="MdE7EvTuS_QVhMOrEJu6-13" value="&lt;span style=&quot;background-color: initial;&quot;&gt;AMR1 checks south wait area 1&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AMR1 enters south wait area 1 and parks&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AMR1 checks south wait area 2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AMR1 enters south wait area 2 and parks&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AMR1 checks entire red area&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR1 enters 1 AMR only area and starts task&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 checks north wait area 1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 enters north wait area 1 and parks&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 checks north wait area 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 enters north wait area 2 and parks&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 checks entire green area&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 waits in north wait area 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR1 completes task and exits&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR2 enters 1 AMR only area and starts task&amp;nbsp;&lt;/div&gt;&lt;div&gt;(at this time, if AMR3 is waiting in&amp;nbsp;&lt;/div&gt;&lt;div&gt;south wait area 2,&amp;nbsp;&lt;/div&gt;&lt;div&gt;it will not enter 1 AMR only area)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="87" width="270" height="500" as="geometry" />
         </mxCell>
         <mxCell id="MdE7EvTuS_QVhMOrEJu6-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="710" y="240" width="10" height="170" as="geometry" />
+          <mxGeometry x="790" y="295" width="10" height="125" as="geometry" />
         </mxCell>
         <mxCell id="MdE7EvTuS_QVhMOrEJu6-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF264A;" parent="1" vertex="1">
-          <mxGeometry x="710" y="460" width="10" height="170" as="geometry" />
+          <mxGeometry x="790" y="135" width="10" height="115" as="geometry" />
         </mxCell>
         <mxCell id="MdE7EvTuS_QVhMOrEJu6-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="680" y="140" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MdE7EvTuS_QVhMOrEJu6-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="680" y="170" width="10" height="30" as="geometry" />
+          <mxGeometry x="790" y="90" width="10" height="45" as="geometry" />
         </mxCell>
         <mxCell id="H1wteRUscejD2A5DQPQX-1" value="&lt;a href=&quot;https://www.notion.so/lexxpluss/Sync_area-Single-State-Proposal-c39749b1d3fc4debb3eda081b064af33?d=7d11b36a564a4e93833d14db740347ef#2b17e804460840d78477e5570715381a&quot;&gt;sync area ideation by Vineet&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="808" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="MdE7EvTuS_QVhMOrEJu6-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="101" as="sourcePoint" />
+            <mxPoint x="790" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.009;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MdE7EvTuS_QVhMOrEJu6-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="105" as="sourcePoint" />
+            <mxPoint x="648.9199999999998" y="161.2800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-6" value="free" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="80" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-7" value="free" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="135" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.996;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="160" as="sourcePoint" />
+            <mxPoint x="649" y="161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="651" y="157" as="sourcePoint" />
+            <mxPoint x="790" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.996;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="791" y="215" as="sourcePoint" />
+            <mxPoint x="650" y="216" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="652" y="212" as="sourcePoint" />
+            <mxPoint x="791" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-13" value="free" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="691" y="190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="250" width="10" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-15" value="free" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="691" y="250" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="652" y="272" as="sourcePoint" />
+            <mxPoint x="791" y="271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.996;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="791" y="275" as="sourcePoint" />
+            <mxPoint x="650" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-18" value="free" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="691" y="310" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="652" y="332" as="sourcePoint" />
+            <mxPoint x="791" y="331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.996;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="791" y="335" as="sourcePoint" />
+            <mxPoint x="650" y="336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-21" value="occupied by AMR1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="651" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="652" y="392" as="sourcePoint" />
+            <mxPoint x="791" y="391" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1wteRUscejD2A5DQPQX-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.996;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="791" y="395" as="sourcePoint" />
+            <mxPoint x="650" y="396" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
