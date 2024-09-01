@@ -101,10 +101,10 @@
           <mxGeometry x="1950" y="3300" width="650" height="250" as="geometry" />
         </mxCell>
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=#D40000;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="2350" y="3000" width="250" height="310" as="geometry" />
+          <mxGeometry x="2190" y="3000" width="410" height="310" as="geometry" />
         </mxCell>
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=#009900;strokeColor=#009900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
-          <mxGeometry x="1960" y="3010" width="400" height="300" as="geometry" />
+          <mxGeometry x="1960" y="3010" width="230" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
