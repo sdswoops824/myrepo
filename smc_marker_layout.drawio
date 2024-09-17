@@ -97,7 +97,7 @@
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00D900;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="3000" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="z1HVmT_UIMOPl4ycSU3N-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00D900;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+        <mxCell id="z1HVmT_UIMOPl4ycSU3N-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00D900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="574" y="3277" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-39" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00D900;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
@@ -130,14 +130,14 @@
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-48" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="808" y="3191" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="z1HVmT_UIMOPl4ycSU3N-49" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="3087" width="10" height="10" as="geometry" />
+        <mxCell id="z1HVmT_UIMOPl4ycSU3N-49" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="808" y="3120" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="z1HVmT_UIMOPl4ycSU3N-50" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="3156" width="10" height="10" as="geometry" />
+        <mxCell id="z1HVmT_UIMOPl4ycSU3N-50" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="808" y="3155" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="z1HVmT_UIMOPl4ycSU3N-51" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="3193" width="10" height="10" as="geometry" />
+        <mxCell id="z1HVmT_UIMOPl4ycSU3N-51" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="807" y="3228" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-18" value="&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;area where customer should not place random objects&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;area where customer can place random objects&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;marker on top of fixed features such as walls/ pillars&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;marker on top of poles&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;marker on top of conveyor&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="2027" width="944" height="250" as="geometry" />
@@ -291,6 +291,9 @@
         </mxCell>
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-106" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=#009900;strokeColor=#009900;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];opacity=50;fillOpacity=100;" parent="1" vertex="1">
           <mxGeometry x="260" y="2704.5" width="547" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="4oIZKe9elwExZCPeJJrL-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00D900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="557" y="3254" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
