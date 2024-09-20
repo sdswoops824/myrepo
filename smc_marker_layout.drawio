@@ -130,23 +130,23 @@
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-51" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="807" y="3228" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="z1HVmT_UIMOPl4ycSU3N-18" value="&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;area where customer should not place random objects&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;area where customer can place random objects&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;marker on top of fixed features such as walls/ pillars&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;marker on top of conveyor&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;marker on top of&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;font-family: WNBZgHB6dqnIOHPIYu7S; font-size: 36px;&quot;&gt;poles&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="2027" width="944" height="250" as="geometry" />
+        <mxCell id="z1HVmT_UIMOPl4ycSU3N-18" value="&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;area where customer should not place random objects&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;area where customer can place random objects&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;marker on top of fixed features such as walls/ pillars&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;marker on top of conveyor&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font face=&quot;WNBZgHB6dqnIOHPIYu7S&quot;&gt;marker on top of&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;font-family: WNBZgHB6dqnIOHPIYu7S; font-size: 36px;&quot;&gt;poles&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: WNBZgHB6dqnIOHPIYu7S; font-size: 36px;&quot;&gt;need customer clearance&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: WNBZgHB6dqnIOHPIYu7S; font-size: 36px;&quot;&gt;need fixtures&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="2027" width="944" height="373" as="geometry" />
         </mxCell>
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=#D40000;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="2053" width="59.5" height="24.5" as="geometry" />
+          <mxGeometry x="930" y="2073" width="59.5" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=#009900;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="2094" width="59.5" height="24.5" as="geometry" />
+          <mxGeometry x="930" y="2114" width="59.5" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-58" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#33FFFF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;imageWidth=20;imageHeight=20;" parent="1" vertex="1">
-          <mxGeometry x="930" y="2190" width="19" height="19" as="geometry" />
+          <mxGeometry x="930" y="2210" width="19" height="19" as="geometry" />
         </mxCell>
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-59" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00D900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;imageWidth=20;imageHeight=20;" parent="1" vertex="1">
-          <mxGeometry x="930" y="2142.5" width="19" height="19" as="geometry" />
+          <mxGeometry x="930" y="2162.5" width="19" height="19" as="geometry" />
         </mxCell>
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-56" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;imageWidth=20;imageHeight=20;" parent="1" vertex="1">
-          <mxGeometry x="930" y="2237" width="19" height="19" as="geometry" />
+          <mxGeometry x="930" y="2257" width="19" height="19" as="geometry" />
         </mxCell>
         <mxCell id="z1HVmT_UIMOPl4ycSU3N-60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00D900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1078" y="2720" width="10" height="10" as="geometry" />
@@ -348,6 +348,15 @@
         </mxCell>
         <mxCell id="oiYfZVZGwYwxorL139BX-29" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#33FFFF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="2437" y="3232" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oiYfZVZGwYwxorL139BX-30" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="929.5" y="2341" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oiYfZVZGwYwxorL139BX-31" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="929.5" y="2300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oiYfZVZGwYwxorL139BX-32" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="953.5" y="2341" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
