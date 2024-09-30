@@ -372,18 +372,6 @@
         <mxCell id="ssu5RsQjHiRSTZXkIKzs-32" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Sync area&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="450" y="6300" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KmYURziQTONNA180T4fp-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00D900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="2740" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="KmYURziQTONNA180T4fp-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00D900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1628" y="2711" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="KmYURziQTONNA180T4fp-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00D900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1678" y="2711" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="KmYURziQTONNA180T4fp-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00D900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="2735" width="10" height="10" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
