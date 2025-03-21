@@ -1,9 +1,25 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="z6D8Si-DXmbKTQMkuUq4">
-    <mxGraphModel>
+    <mxGraphModel dx="764" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-60eaf183-7fff-0602-34e1-9daf505dee2c&quot;&gt;&lt;img width=&quot;611px;&quot; height=&quot;366px;&quot; src=&quot;https://lh7-rt.googleusercontent.com/slidesz/AGV_vUd2KlMM4QnQL6Jmn2qGiPLDzt9svtk4ODXZg5ewVos7o0CvfNDl6tLLOE7uKwN9mTDjR38up_jZ1oU8GZL3_Lrw_R0eAsG71_bwm_P-XdzlaXWygPxJyWe692o7XcZ00gSJ0_EUJX2rH82FGHX_P-4=s2048?key=RrEIuQlGjClWiUIyVuo9hh8M&quot;&gt;&lt;/b&gt;" link="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-60eaf183-7fff-0602-34e1-9daf505dee2c&quot;&gt;&lt;img width=&quot;611px;&quot; height=&quot;366px;&quot; src=&quot;https://lh7-rt.googleusercontent.com/slidesz/AGV_vUd2KlMM4QnQL6Jmn2qGiPLDzt9svtk4ODXZg5ewVos7o0CvfNDl6tLLOE7uKwN9mTDjR38up_jZ1oU8GZL3_Lrw_R0eAsG71_bwm_P-XdzlaXWygPxJyWe692o7XcZ00gSJ0_EUJX2rH82FGHX_P-4=s2048?key=RrEIuQlGjClWiUIyVuo9hh8M&quot;&gt;&lt;/b&gt;" id="6g58g3iFyV8S-OoC5-G6-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="300" y="300" width="560" height="390" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6g58g3iFyV8S-OoC5-G6-2" value="CHILLED ROOM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-a2412d8f-7fff-ad98-dfc1-602e98a05ab0&quot;&gt;&lt;img width=&quot;928px;&quot; height=&quot;152px;&quot; src=&quot;https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcajOEB5euwA0kYF-o9lXkACYzhsKiIC751FK0XGgMtpYsRxsefsLoMP1xF7MJpbD2M1eIyTeNySRLGoKOj94DcgIJ6--W991V6XVdYFroDCeH_40sUuBDfMQI6-phYtdTva3WtY2H3p3ISNbEap1g=s2048?key=RrEIuQlGjClWiUIyVuo9hh8M&quot;&gt;&lt;/b&gt;" link="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-a2412d8f-7fff-ad98-dfc1-602e98a05ab0&quot;&gt;&lt;img width=&quot;928px;&quot; height=&quot;152px;&quot; src=&quot;https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcajOEB5euwA0kYF-o9lXkACYzhsKiIC751FK0XGgMtpYsRxsefsLoMP1xF7MJpbD2M1eIyTeNySRLGoKOj94DcgIJ6--W991V6XVdYFroDCeH_40sUuBDfMQI6-phYtdTva3WtY2H3p3ISNbEap1g=s2048?key=RrEIuQlGjClWiUIyVuo9hh8M&quot;&gt;&lt;/b&gt;" id="6g58g3iFyV8S-OoC5-G6-3">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="280" y="1030" width="560" height="180" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6g58g3iFyV8S-OoC5-G6-4" value="6-WC AREA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1010" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
